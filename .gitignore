@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+audio/congratulations/
+.pytest_cache/
+.cache
+words/used/
