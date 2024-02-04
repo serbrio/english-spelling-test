@@ -1,0 +1,6 @@
+pytest
+wkt_scraper
+pyfiglet
+cowsay
+pyglet
+tabulate
